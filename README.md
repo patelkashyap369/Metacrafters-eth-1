@@ -1,3 +1,13 @@
+# metacrafters-eth-1
+
+![metacrafters-logo](https://assets-global.website-files.com/62418210ede7e7f14869de35/6245c9b2c388101db3d950f5_metacrafterslogo-gold.webp)
+
+The Metacrafters ETH Beginners course's source code is available in this repository.
+
+[Link to the course](https://academy.metacrafters.io/content/solidity-beginner)
+
+---
+
 REMIX DEFAULT WORKSPACE
 
 Remix default workspace is present when:
